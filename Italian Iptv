@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,IT: PARAMOUNT HD
 http://tv.sigma-iptv.com:7000/45905/13543107/575546389
 #EXTINF:-1,IT: RAI 1 FHD
@@ -1253,5 +1252,3 @@ http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1,Video Calabria
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-
-
